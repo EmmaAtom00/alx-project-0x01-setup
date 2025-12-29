@@ -15,10 +15,10 @@ const Home: React.FC = () => {
           <button className="mt-6 px-6 py-3 bg-white text-blue-500 rounded-full font-semibold hover:bg-gray-200 transition">
             Get Started
           </button>
-            </div>
+        </div>
       </main>
     </div>
-  )
-}
+  );
+};
 
 export default Home;
